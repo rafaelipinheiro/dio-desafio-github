@@ -2,7 +2,8 @@
 
 ## Verificar a instalação
 `git --version`
-`Sua identidade`
+
+## Sua identidade
 `git config --global user.name “Seu nome”`
 `git config --global user.email seu@email`
 
@@ -15,5 +16,5 @@
 ## Ajuda
 `git help`
 
-##Visualizar configurações
+## Visualizar configurações
 `cat .gitconfig`
